@@ -43,7 +43,7 @@ module.exports = {
             ],
 
             "out/src/js/overlay.min.js": [
-                "build/vendor/jquery/js/jquery-1.12.0.js",
+                "build/vendor/jquery/js/jquery-3.5.0.js",
                 "build/js/overlay.js"
             ]
 
